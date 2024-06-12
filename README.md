@@ -1,23 +1,18 @@
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
  
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
 
-### Hi there 👋 I'm Birunthaban Sarventhiran,
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Soy Julio Vargas,
 
-I'm a second year software engineering undergraduate at University of Kelaniya and I'm also following a applied statistics diploma at IASSL.
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently studying:
-	- Mobile Application Development 
-	- Web Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills 
-
+<div align="center">
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -69,16 +64,20 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
 	<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white">
-    
+   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238">
 </span>
+</div>
 
-## :headphones: Spotify Playing
+## :headphones: YouTube Music Playing
+<div align="center">
+	<a href="https://music.youtube.com/watch?v=YBdyc1WDlBQ&si=xJu4eMR-B_Tly384"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
+</div>
 
-[![Programming Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://youtu.be/J_6Vd17ycEU?list=RDJ_6Vd17ycEU) 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
-<iframe width="921" height="518" src="https://www.youtube.com/embed/J_6Vd17ycEU?list=RDJ_6Vd17ycEU" title="Deku vs Class 1A「Boku no Hero Academia Season 6 AMV」Natural ᴴᴰ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<video src="https://youtu.be/J_6Vd17ycEU?list=RDJ_6Vd17ycEU"></video>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -94,13 +93,6 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-
-<hr>
-
-    </div>
    
    
-</div>
 
