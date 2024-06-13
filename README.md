@@ -5,9 +5,9 @@
         <p>Loading</p>
     </div>
 
-# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Soy Julio Vargas,
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Soy Julio Vargas
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/julio-vargas-ludeña/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 
@@ -30,14 +30,17 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
-	<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+	<img src="https://img.shields.io/badge/NPM-F80000.svg?style=for-the-badge&logo=npm&logoColor=white">
+	
+<img src="http://img.shields.io/badge/CocoaPods-F80000?style=for-the-badge&logo=cocoapods&logoColor=white">
+<img src="http://img.shields.io/badge/-Maven-white?style=for-the-badge&logo=apachemaven&logoColor=bc2043">
 </span>
 
 
 
 <h4> Databases </h4>
 <span>
- <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+ <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-E5E84A?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=283238">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -54,7 +57,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-0b3486.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
 <h4> Other Tools and Technologies </h4>
 <span>
@@ -65,31 +68,27 @@
    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white">
    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238">
+	<img src="http://img.shields.io/badge/-render-white?style=for-the-badge&logo=render&logoColor=283238">
 </span>
 </div>
 
 ## :headphones: YouTube Music Playing
 <div align="center">
-	<a href="https://music.youtube.com/watch?v=YBdyc1WDlBQ&si=xJu4eMR-B_Tly384"><img src="https://ia800602.us.archive.org/13/items/ecualizador_abajo_zpsff7fbabd//ecualizador_abajo_zpsff7fbabd.gif"></a>
+	<a href="https://music.youtube.com/watch?v=YBdyc1WDlBQ&si=xJu4eMR-B_Tly384">
+		<img src="https://ia800602.us.archive.org/13/items/ecualizador_abajo_zpsff7fbabd//ecualizador_abajo_zpsff7fbabd.gif"></a>
 </div>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <table align="center">
 <tr >
-<td width="50%" border-style: hidden;>
-  <img  src="https://github-readme-stats.vercel.app/api?username=JulioVargas26&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-  </br><img src="https://github-readme-streak-stats.herokuapp.com/?user=JulioVargas26&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"/>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=JulioVargas26&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+  </br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=JulioVargas26&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"/>
   </td>
 
-<td width="50%"border-style: hidden;>
-   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JulioVargas26&title_color=6FDA44&text_color=FFFFFF&theme=dark&no-bg=true&hide_border=false&no-frame=true&langs_count=20"/>
+<td width="50%">
+   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JulioVargas26&title_color=6FDA44&text_color=FFFFFF&theme=dark&no-bg=true&hide_border=false&no-frame=true&langs_count=20"/>
   </td>
 </tr>
 </table>
