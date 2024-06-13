@@ -70,7 +70,7 @@
 
 ## :headphones: YouTube Music Playing
 <div align="center">
-	<a href="https://music.youtube.com/watch?v=YBdyc1WDlBQ&si=xJu4eMR-B_Tly384"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
+	<a href="https://music.youtube.com/watch?v=YBdyc1WDlBQ&si=xJu4eMR-B_Tly384"><img src="https://ia800602.us.archive.org/13/items/ecualizador_abajo_zpsff7fbabd//ecualizador_abajo_zpsff7fbabd.gif"></a>
 </div>
 
 <p align="center">
